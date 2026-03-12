@@ -1,6 +1,6 @@
 # Hey, I'm Ningrum! 👋
 
-Statistics graduate with hands-on experience working with various datasets during university. Currently exploring the data field more deeply while building projects and a portfolio.
+Statistics graduate with hands-on experience working with various datasets. Currently exploring the data field more deeply while building projects and a portfolio.
 
 Now I am focusing on bridging the gap between theory and industry practice using Python, SQL, and modern data tools. This portfolio showcases my learning journey and projects. Open to data roles and internships. 🚀
 
