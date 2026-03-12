@@ -1,8 +1,8 @@
 # Hey, I'm Ningrum! 👋
 
-Statistics graduate on a mission to break into data — building skills, building projects, and open to opportunities.
+Statistics graduate with hands-on experience working with various datasets during university. Currently exploring the data field more deeply while building projects and a portfolio.
 
-My background is in statistics, so the analytical thinking is already there. What I'm doing now is closing the gap between knowing the theory and speaking the industry's language: Python, SQL, and modern data tools. Currently building this portfolio as proof of work — and open to data roles and internships along the way. 🚀
+Now I am focusing on bridging the gap between theory and industry practice using Python, SQL, and modern data tools. This portfolio showcases my learning journey and projects. Open to data roles and internships. 🚀
 
 ---
 
