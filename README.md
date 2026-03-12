@@ -1,4 +1,4 @@
-# Hey, I'm Sari! 👋
+# Hey, I'm Ningrum! 👋
 
 Statistics graduate on a mission to break into data — building skills, building projects, and open to opportunities.
 
